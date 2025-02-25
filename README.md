@@ -5,6 +5,10 @@ Wordle Engine Video Tutorial:  https://youtu.be/-cz_lun6fo0
 
 [![Microsoft Power Apps Wordle Engine](https://img.youtube.com/vi/-cz_lun6fo0/0.jpg)](https://www.youtube.com/watch?v=-cz_lun6fo0)
 
+---
+
+Article on the Wordle Game: <Coming Soon>
+
 
 Wordle Game Video Tutorial (build on the Video Engine): https://youtu.be/3lJS-D34R7w 
 
